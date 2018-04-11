@@ -14,5 +14,4 @@ This is the code for simple gender classifier challenge for 'Learn Python for Da
 
 '''
 python runme.py
-
 '''
